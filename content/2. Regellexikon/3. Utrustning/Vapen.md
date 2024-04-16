@@ -4,16 +4,19 @@ tags:
   - Utrustning
 share: true
 ---
- ## Vapen
-Det finns tre typer av vapen, enhandade vapen, tvåhandade vapen och projektilvapen. 
+## Vapen
+Det finns tre typer av vapen, enhandsvapen, tvåhändsvapen och projektilvapen. Grundegenskapen i tabellen refererar till vilken grundegenskap som ska användas för att [[Attackera (1)|attackera]] med vapnet. Skadan är hur mycket skada det gör till karaktären det träffar
 
-Exempel på enhandsvapen är:  Kniv, Kortsvärd, Handyxa och Stav (ca 1T6)
-Exempel på tvåhandsvapen är: Stridsyxa, Långsvärd, Hillebard och Slägga (ca 1T10)
-Exempel på projektilvapen är: Slangbella, Kortbåge, Långbåge (ca 1T8)
-*Senare speltest kommer att behandla vapen i mer detalj, i nuläget ges förfogande till spelledaren att bestämma över vilken kategori olika vapen hamnar i, och därmed hur mycket skada de gör. Det är även viktigt att definiera vapnets räckvidd.*
+| Vapentyp       | Grundegenskap | Skada    | Föreslagen räckvidd |
+| -------------- | ------------- | -------- | ------------------- |
+| Enhandsvapen   | FYS           | 1T8+FYS  | 1FE (Närstrid)      |
+| Tvåhandsvapen  | STY           | 1T12+STY | 1FE (Närstrid)      |
+| Projektilvapen | SMI           | 1T8+SMI  | 20FE                |
 
-När du ska använda enhandsvapen kan du välja om du vill använda Smidighet eller Styrka, detta refereras med samlingsnamnet Fysisk förmåga (FYS). Detta innebär att du lägger till din FYS både till när du ska försöka träffa något och till skadan som vapnet gör.
+Exempel på enhandsvapen är:  Kniv, Kortsvärd, Handyxa och Stav 
+Exempel på tvåhandsvapen är: Stridsyxa, Långsvärd, Hillebard och Slägga 
+Exempel på projektilvapen är: Slangbella, Kortbåge, Långbåge 
 
-När du ska använda tvåhandsvapen används styrka. Detta innebär att du lägger till STY både till när du ska försöka träffa något och till skadan som vapnet gör.
+*Vapen kommer behandlas i detalj senare i utvecklingen, i nuläget ges förfogande till spelledaren att bestämma över vilken kategori olika vapen hamnar i, och därmed hur mycket skada de gör. Det är även viktigt att definiera vapnets räckvidd.*
 
-När du ska använda projektilvapen används smidighet.Detta innebär att du lägger till SMI både till när du ska försöka träffa något och till skadan som vapnet gör. 
+

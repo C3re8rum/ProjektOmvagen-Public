@@ -14,7 +14,8 @@ Det du använder för att göra skada med beskriver hur mycket skada den gör. M
 
 Om något låter en karaktär gör skada till flera andra karaktärer samtidigt används samma tärningsslag för allas skada.
 
-**Kritisk träff** innebär att karaktären har gjort ett perfekt slag för att träffa med sitt vapen. Dubbla mängden tärningar som ursprungligen skulle ha slagits och addera därefter eventuella tillägg för att få skadan den kritiska träffen gjorde.
+#### Kritisk träff
+Kritisk innebär att karaktären har gjort ett perfekt slag för att träffa med sitt vapen. Dubbla mängden tärningar som ursprungligen skulle ha slagits och addera därefter eventuella tillägg för att få skadan den kritiska träffen gjorde.
 
 ### Typer av Skada
 I detta test kommer dessa ha minimal effekt, men kan vara intressant i framtida test.

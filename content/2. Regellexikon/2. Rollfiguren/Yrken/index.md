@@ -1,60 +1,9 @@
 ---
 tags:
-  - Kapitel
+  - Regel
+  - Rollfiguren
 share: true
 ---
-## Härstamning
-Alla karaktärer har en härstamning, alltså vilken typ av varelse karaktären är. De primära härstamningarna som kan väljas är människa, alv, dvärg och hob. 
-
-### Alv
-**Medellivslängd**: 400 år
-**Språk**: Alviska, Handelsspråket
-**Grundegenskaper**:
-- +1 SMI eller INT
-- -1 STY 
-
-### Månsyn
-Du kan se i svagt ljus (såsom ljuset som ges av månen på en klar natt) som vanligt inom 100m. 
-
-**Notera**: Detta betyder inte att du inte kan se i mörker.
-
-
-### Dvärg
-**Medellivslängd**: 200
-**Språk**: Dvärgiska, Handelsspråket
-**Grundegenskaper**
-- +1 STY
-- -1 CHA
-
-#### Infrasyn
-Du har mörkerseende i form av att kunna se skillnaden i värme. 
-
-
-
-
-
-### Hob
-**Medellivslängd**: 100 år
-**Språk**: Handelsspråket
-**Grundegenskaper**
-- +1 KAR
-- -1 SMI
-
-#### Djurviskare
-Du kan kommunicera med djur och förklara enkla ord, koncept eller känslor för dem och kan förstå deras svar. 
-
-### Människa 
-**Medellivslängd**: 70 år
-**Språk**: Handelsspråket
-**Grundegenskaper**:
-- +1 Valfri
-- -1 Valfri
-
-#### Kunskapsjägare
-Välj en färdighet du är tränad i, dennas träningsgrad ökar med 2. 
-
-
-
 ## Yrken  
 
 Ett yrke är en rollfigurs sysselsättning, vilket definierar dess förmågor och helt enkelt vad rollfiguren är bra på. Det finns tre yrkesgrupper: Krigare, Magiker och Specialister. Generellt sett är krigare enklare att spela än specialister och magiker. 
@@ -215,21 +164,3 @@ En gång per runda, när du [[Attackera (1)|attackerar]] en karaktär som anting
 | Medvetslös, Paralyserad             | 3T12       |
 
 Om en karaktär på annat sätt är förhindrad, kan den också ta mer skada från dina attacker. Om en effekt inte finns i tabellen men påverkar karaktären, fråga din spelledare om det skulle göra mer skada. 
-
-
-## Tilldelande av grundegenskaper
-För att tilldela en rollfigur hur många poäng den har i varje grundegenskap ges en lista. 
-
-Listan ser ut på följande sätt: 3, 2, 1, 0
-
-Dessa får placeras ut på de olika grundegenskaperna.
-
-
-
-## Kroppspoäng 
-Hur stryktålig en rollfigur är bestäms av dess kroppspoäng (KP). Hur många kroppspoäng en karaktär beror på flera faktorer men består av tre komponenter: yrke & nivå och styrka. 
-
-KP = Nivå*(Yrke-baserad KP-bas) + Nivå\*STY
-
-EX: 1 spejare av första nivån med 2 i styrka beräknar sin KP med formeln KP = 14 + 2
-

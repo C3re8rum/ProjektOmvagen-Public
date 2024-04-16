@@ -18,7 +18,10 @@ share: true
 **Varaktighet**: Omedelbar
 
 ###### Första graden
-Du kallar fram ett eldklot som du slungar mot en varelse. Om den träffar tar varelsen 1T8 eldskada och fattar eld. Tills varelsen använder en handling för att skaka av sig elden eller på annat sätt lyckas släcka den tar den vid början av sin tur 1T4 eldskada.
+Du kallar fram ett eldklot som du slungar mot en varelse. Om den träffar tar varelsen 2T10 eldskada.
 
 ###### Andra graden
-Du fokuserar ytterligare och lyckas koncentrera in energin som en magisk bomb. Välj istället en punkt inom räckvidden. Alla varelser inom 1 FE måste slå SMI mot din MMSG eller ta skadan och fatta eld som beskrivs ovan.
+Eldklotet transformeras till en stråle. Strålen har en räckvidd på 5FE och en bredd på 1FE. Alla varelser som står inom strålen tar 1T12 eldskada.  
+
+###### När besvärjelsen slår fel
+Att leka med eld är farligt. Istället för att sätta eld till en fiende sätter du eld på dig och tar vid början av din nästa tur 1T4 tills du släckt den med en huvudhandling.  
