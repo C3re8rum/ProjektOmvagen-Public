@@ -21,3 +21,6 @@ Du gräver djupt inombords tills du ser in i självaste väven. Under besvärjel
 
 ###### Andra graden
 Istället för att se om föremål är magiska runt omkring dig fokuserar du istället på ett föremål som du kan se inom räckvidden. Du får reda på om föremålet är magiskt, vilken typ av magi som påverkar det och vad magin gör. Vissa föremål är immuna mot denna besvärjelse. Om du misslyckas med att identifiera ett föremål med denna magi ökar SG med 2 för att identifiera föremålet igen.
+
+###### När besvärjelsen slår fel
+Att se in i självaste väven är farligt och lätt bländande. Du blir under besvärjelsens varaktighet blind. 
