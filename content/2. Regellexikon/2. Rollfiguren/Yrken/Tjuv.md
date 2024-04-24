@@ -8,6 +8,7 @@ grupp: Specialist
 ---
 ### Tjuv
 *Specialist*
+
 **KP-Bas**: 12
 
 **Färdigheter**: Smygande, Välj 2 valfria

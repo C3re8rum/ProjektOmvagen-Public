@@ -6,8 +6,11 @@ share: true
 ---
 ### Människa 
 **Medellivslängd**: 70 år
+
 **Språk**: Handelsspråket
+
 **Grundegenskaper**:
+
 - +1 Valfri
 - -1 Valfri
 

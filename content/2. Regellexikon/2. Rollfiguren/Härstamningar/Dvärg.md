@@ -6,8 +6,12 @@ share: true
 ---
 ### Dvärg
 **Medellivslängd**: 200
+
+
 **Språk**: Dvärgiska, Handelsspråket
+
 **Grundegenskaper**
+
 - +1 STY
 - -1 CHA
 

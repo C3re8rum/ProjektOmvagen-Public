@@ -8,7 +8,9 @@ grupp: Magiker
 ---
 ### Präst (Religiös Magiker)
 *Magiker*
+
 **KP-Bas**: 10
+
 **Färdigheter**: Kunskap, Välj två av följande: Spaning, Smygande, Kommunikation, Överlevnad
 
 En religiös magikers källa är en särskild gud de har ägnat sitt liv åt. Denna gud har uppmärksammat sin följare och valt att ge den en gåva, magins konst.
