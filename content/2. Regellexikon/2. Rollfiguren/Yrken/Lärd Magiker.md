@@ -8,7 +8,9 @@ grupp: Magiker
 ---
 ### Lärd Magiker
 *Magiker*
+
 **KP-Bas**: 10
+
 **Färdigheter**: Kunskap, Välj två av följande: Spaning, Smygande, Kommunikation, Överlevnad
 
 En lärd magikers källa är dess kunskap av väven, från vilken all magi kommer ifrån. De har därför bättre koll på magi teori än alla andra magiker.
