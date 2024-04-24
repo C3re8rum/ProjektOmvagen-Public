@@ -7,8 +7,11 @@ share: true
 ---
 ### Alv
 **Medellivslängd**: 400 år
+
 **Språk**: Alviska, Handelsspråket
+
 **Grundegenskaper**:
+
 - +1 SMI eller INT
 - -1 STY 
 
