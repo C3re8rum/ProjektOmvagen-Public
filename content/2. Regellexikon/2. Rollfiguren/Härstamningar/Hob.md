@@ -6,8 +6,11 @@ share: true
 ---
 ### Hob
 **Medellivslängd**: 100 år
+
 **Språk**: Handelsspråket
+
 **Grundegenskaper**
+
 - +1 KAR
 - -1 SMI
 
