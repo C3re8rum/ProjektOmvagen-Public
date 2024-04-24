@@ -9,8 +9,11 @@ Alla karaktärer har en härstamning, alltså vilken typ av varelse karaktären 
 
 ### Alv
 **Medellivslängd**: 400 år
+
 **Språk**: Alviska, Handelsspråket
+
 **Grundegenskaper**:
+
 - +1 SMI eller INT
 - -1 STY 
 
@@ -22,8 +25,12 @@ Du kan se i svagt ljus (såsom ljuset som ges av månen på en klar natt) som va
 
 ### Dvärg
 **Medellivslängd**: 200
+
+
 **Språk**: Dvärgiska, Handelsspråket
+
 **Grundegenskaper**
+
 - +1 STY
 - -1 CHA
 
@@ -36,8 +43,11 @@ Du har mörkerseende i form av att kunna se skillnaden i värme.
 
 ### Hob
 **Medellivslängd**: 100 år
+
 **Språk**: Handelsspråket
+
 **Grundegenskaper**
+
 - +1 KAR
 - -1 SMI
 
@@ -46,8 +56,11 @@ Du kan kommunicera med djur och förklara enkla ord, koncept eller känslor för
 
 ### Människa 
 **Medellivslängd**: 70 år
+
 **Språk**: Handelsspråket
+
 **Grundegenskaper**:
+
 - +1 Valfri
 - -1 Valfri
 
