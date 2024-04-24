@@ -8,6 +8,7 @@ grupp: Krigare
 ---
 ### Soldat
 *Krigare*
+
 **KP-Bas: 18**
 
 **Färdigheter:** Idrott, Välj två av följande: Spaning, Smygande, Kommunikation, Överlevnad
