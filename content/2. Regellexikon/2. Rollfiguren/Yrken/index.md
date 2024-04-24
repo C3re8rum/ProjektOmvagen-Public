@@ -9,11 +9,11 @@ share: true
 Ett yrke är en rollfigurs sysselsättning, vilket definierar dess förmågor och helt enkelt vad rollfiguren är bra på. Det finns tre yrkesgrupper: Krigare, Magiker och Specialister. Generellt sett är krigare enklare att spela än specialister och magiker. 
 
 #### Krigare
-Krigare använder vapen på olika sätt, med olika strategi för att vara en farlig kraft på slagfältet. De använder adrenalin för att få ett ännu mer än vad som annars skulle varit möjligt. Inom gruppen krigare finns 3 yrken:
+Krigare använder vapen på olika sätt, med olika strategi för att vara en farlig kraft på slagfältet. De använder adrenalin för att få ut ännu mer av sin personliga energi än vad som annars är möjligt. Inom gruppen krigare finns 3 yrken:
 
 - **Barbaren** är en aggressiv vilding som kanaliserar sin ilska för att ta kål på sina fiender. 
-- **Soldat** är vältränad och är vana vid att maximera deras energiresurser.
-- **Spejare** är vildsmarksexperter och extra bra på att se till att fienderna inte slipper undan.
+- **Soldaten** är vältränad och är van vid att maximera sina energiresurser.
+- **Spejaren** är en vildsmarksexpert och extra bra på att se till att fienderna inte slipper undan.
 
 #### Magiker
 Magiker använder sin kunskap om magi för att framkalla kraftfulla besvärjelser. De använder mana för att förstärka sin magi till nya höjder. Inom gruppen magiker finns 2 yrken:
@@ -29,6 +29,7 @@ Inom gruppen Specialister finns 1 yrke:
 
 ### Barbar
 *Krigare*
+
 **KP-Bas**: 18
 
 **Färdigheter:** Idrott, Välj två av följande: Spaning, Smygande, Kommunikation, Överlevnad
@@ -52,6 +53,7 @@ Du använder all din ilska och går in i en bärsärkagång. Den varar i upp til
 
 ### Soldat
 *Krigare*
+
 **KP-Bas: 18**
 
 **Färdigheter:** Idrott, Välj två av följande: Spaning, Smygande, Kommunikation, Överlevnad
@@ -75,6 +77,7 @@ Dina år på slagfältet har lett till att du förstår att när kroppen utsätt
 
 ### Spejare
 *Krigare*
+
 **KP-Bas**: 14
 
 **Färdigheter**: Smygande, Välj två av följande: Idrott, Spaning, Kunskap, Överlevnad
@@ -98,7 +101,9 @@ Vildmarken är en farlig plats som kräver rätt beslut på ett ögonblick, åtm
 
 ### Lärd Magiker
 *Magiker*
+
 **KP-Bas**: 10
+
 **Färdigheter**: Kunskap, Välj två av följande: Spaning, Smygande, Kommunikation, Överlevnad
 
 En lärd magikers källa är dess kunskap av väven, från vilken all magi kommer ifrån. De har därför bättre koll på magi teori än alla andra magiker.
@@ -118,7 +123,9 @@ Välj en besvärjelse, du får +2 i ditt magislag när du vill försöka framkal
 
 ### Präst (Religiös Magiker)
 *Magiker*
+
 **KP-Bas**: 10
+
 **Färdigheter**: Kunskap, Välj två av följande: Spaning, Smygande, Kommunikation, Överlevnad
 
 En religiös magikers källa är en särskild gud de har ägnat sitt liv åt. Denna gud har uppmärksammat sin följare och valt att ge den en gåva, magins konst.
@@ -134,6 +141,7 @@ Du ställer en fråga till din gud och slår för INT+NIVÅ. Beroende på result
 
 ### Tjuv
 *Specialist*
+
 **KP-Bas**: 12
 
 **Färdigheter**: Smygande, Välj 2 valfria
