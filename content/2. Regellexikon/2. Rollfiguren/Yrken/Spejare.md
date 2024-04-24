@@ -8,6 +8,7 @@ grupp: Krigare
 ---
 ### Spejare
 *Krigare*
+
 **KP-Bas**: 14
 
 **Färdigheter**: Smygande, Välj två av följande: Idrott, Spaning, Kunskap, Överlevnad
