@@ -11,10 +11,10 @@ share: true
 ## Rollfiguren
 ### Yrken 
 - Lade till nya yrken Barbar, Soldat, Tjuv
+- Tog bort yrket Krigare
 - Gjorde Lärd magiker och Religiös magiker till egna yrken
 - Bytte namn på Religiös Magiker till "Präst"
 - Ändrade på spejarens aktiva förmåga
-- Tog bort yrket Krigare
 - Lade till yrkesgrupper Krigare, Magiker och Specialist
 
 ### Härstamningar
