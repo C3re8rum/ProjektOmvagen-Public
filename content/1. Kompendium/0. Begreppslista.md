@@ -10,7 +10,7 @@ I detta kapitel finns en lista med begrepp som är till för att förenkla förs
 
 **Spelare** - En fysisk person som spelar en rollfigur
 
-**Karaktär** - En karaktär är en varelse i spelvärlden, som inte alltid men oftast har ett karaktärsblad.
+**Karaktär** - En karaktär är en varelse i spelvärlden, som inte alltid men oftast har ett karaktärsblad. Namnen karaktär och varelse anses vara synonymer. 
 
 **Rollfigur** - En karaktär i spelvärlden som kontrolleras av en spelare
 
@@ -18,7 +18,7 @@ I detta kapitel finns en lista med begrepp som är till för att förenkla förs
 
 **Slag** - Spelledaren kan be en av spelarna om att göra ett slag för att försöka någonting som inte är trivialt. När träningstypen inte är specificerad refererar texten alltid till ett standardslag, alltså 2d8, där relevanta tillägg eller avdrag, såsom grundegenskaper och färdigheter tas i hänsyn till. 
 
-**Perfekt Slag** - Att slå två stycken åttor med ett standardslag, alltså uppnå ett omodifierat resultat på 16 motsvarar ett perfekt slag. Ett perfekt slag motsvarar det bästa möjliga utkomsten en karaktärs handlingar kan uppnå, vilket oftast (men inte alltid) resulterar i att lyckas, ett perfekt slag med ett vapen motsvarar en kritisk träff (Se[[Skada och Kroppspoäng#Kritisk träff| Kritisk träff]]).
+**Perfekt Slag** - Att slå två stycken åttor med ett standardslag, alltså uppnå ett omodifierat resultat på 16 motsvarar ett perfekt slag. Ett perfekt slag motsvarar det bästa möjliga utkomsten en karaktärs handlingar kan uppnå, vilket oftast (men inte alltid) resulterar i att lyckas, ett perfekt slag med ett vapen motsvarar en kritisk träff (Se[[2. Regellexikon/3. Strid/Skada och Kroppspoäng#Kritisk träff| Kritisk träff]]).
 
 **Fummel** - Att slå två stycken ettor med ett standardslag, alltså uppnå ett omodifierat resultat på 2 motsvarar fummel. Fummel motsvarar det sämsta möjliga resultatet från en karaktärs handlingar kan uppnå. Att fumla med ett vapen motsvarar alltid en miss
 

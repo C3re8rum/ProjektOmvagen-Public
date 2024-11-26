@@ -11,11 +11,10 @@ Projekt omvägen är ett bordsrollspel vars mål är att vara lätt för både n
 
 # Innehållsförteckning
 ###### [[0. Begreppslista|0. Begreppslista]]
-###### [[1. Varelser|1. Varelser]] 
-###### [[2. Rollfiguren|2. Rollfiguren]] 
-###### [[3. Utrustning|3. Utrustning]] 
-###### [[4. Strid|4. Strid]] 
-###### [[5. Magi|5. Magi]] 
+###### [[1. Rollfiguren|1. Rollfiguren]] 
+###### [[2. Utrustning|2. Utrustning]] 
+###### [[3. Strid|3. Strid]] 
+###### [[4. Magi|4. Magi]] 
 ###### [[z_Tester/content/1. Kompendium/6. Spelledarresurser|6. Spelledarresurser]] 
 
 ###### [[1. Kompendium/Bilaga A - Ändringslog|Ändringshistorik]] 

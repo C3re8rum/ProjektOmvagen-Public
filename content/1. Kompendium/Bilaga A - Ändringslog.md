@@ -37,3 +37,4 @@ share: true
 - Lade till system för att använda magi i "Lugn och Ro"
 - Förändrade svårighetsgraden på att framkalla olika typer av magi
 - Uppdaterade besvärjelser Eld, Frost, Förbanna 
+ 
