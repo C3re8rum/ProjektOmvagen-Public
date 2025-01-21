@@ -1,7 +1,7 @@
 ---
 share: true
 ---
-# Ändrinslog Alpha 0.2.1
+# Ändrinslog Alpha 0.2.2
 ## Rollfiguren
 ### [[Härstamning|Härstamning]] 
 - Alver: Ersatte *Alvisk Månsyn* med *Alvisk Vilja*
