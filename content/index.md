@@ -21,5 +21,3 @@ Projekt omvägen är ett bordsrollspel vars mål är att vara lätt för både n
 <!--- Beskriver endast de ändringar som gjorts mellan uppdateringar på hemsidan, resten gör Git 
 Skriv Datum med ändringar som en punktlista samt vilken del av utvecklingen den är del (exempelvis, en förändring som är en del av Alpha 0.2 kommer ha Alpha 0.2)
 --->
-
-[[Bilaga A - Ändringslog|Bilaga A - Ändringslog]] 
