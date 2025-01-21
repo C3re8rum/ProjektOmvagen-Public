@@ -13,10 +13,10 @@ share: true
 **Grundegenskaper**
 
 - +1 STY
-- -1 CHA
+- -1 KAR
 
-#### Infrasyn
-Du har mörkerseende i form av att kunna se skillnaden i värme. 
+#### Giftmotståndig
+Du har +3 mot alla slag mot att bli förgiftad. Ta bort 5 från all giftskada du tar (GIFT: RG5).
 
 
 
