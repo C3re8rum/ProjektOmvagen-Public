@@ -15,7 +15,5 @@ share: true
 - +1 SMI eller INT
 - -1 STY 
 
-### Månsyn
-Du kan se i svagt ljus (såsom ljuset som ges av månen på en klar natt) som vanligt inom 100m. 
-
-**Notera**: Detta betyder inte att du inte kan se i mörker.
+#### Alvisk vilja
+Du har +3 mot alla slag för att motstå att på något sätt bli 'onaturligt övertalad'. Magi och alkemi kan inte få dig att somna. 
