@@ -23,9 +23,9 @@ Under dina år i "yrket" har du blivit en expert på din sak
 
 När du [[2. Regellexikon/3. Strid/Generella Handlingar/Attackera (1)|attackerar]] kan du välja att också försvaga din fiende. Denna handling kan maximalt användas en gång per attack. Du kan då välja att försöka försvaga din fiende på ett av följande sätt:
 - **Bedöva**. Karaktären blir döv
-- **Förvirra**. Karaktären får -3 till alla attackslag och magislag
-- **Exponera**. Karaktärens försvar minskar med 3.
-- **Tröga till**. Karaktärens förflyttningshastighet halveras. 
+- **Förvirra**. -3 till alla attackslag och magislag
+- **Exponera**. -3 Försvar
+- **Tröga till**. Förflyttningshastigheten halveras. 
 
 För att motstå dessa slår karaktären FYS + Idrott mot ditt attackslag. Misslyckas de får de effekten, vilken varar tills slutet av din nästa tur. Om de fumlar varar den i en runda till. Karaktären tar skada som vanligt.
 
