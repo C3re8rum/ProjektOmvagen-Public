@@ -10,9 +10,6 @@ share: true
 ### Vålla 
 *Sanctum*
 
-
-*Döp om till Smärta?*
-
 **Uppladdningstid**: 2 handlingar
 
 **Räckvidd**: Beröring
@@ -21,7 +18,6 @@ share: true
 
 ###### Första graden
 Du berör en varelse och den får omedelbart grova sår som gör att den tar 2T12 skada. Odöda tar 1T12 extra skada. 
-
 
 ###### Andra graden
 Varelsen börjar blöda kraftigt och tar i en minut eller tills dess att den stabiliserats med läkekonst 1T8 skada på början av sin tur.

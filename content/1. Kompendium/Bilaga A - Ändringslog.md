@@ -50,3 +50,14 @@ share: true
 - Uppdaterade "Magi i Lugn och Ro"
 - Lade till magin Vålla till skolan Sanctum och tog bort Eld från Sanctum
 - Uppdaterade Eld, Förbanna, Kraft, Ljus, Läka, Sköld och Vind 
+# Ändrinslog Alpha 0.2.2
+## Rollfiguren
+### [[Härstamning|Härstamning]] 
+- Alver: Ersatte *Alvisk Månsyn* med *Alvisk Vilja*
+- Dvärgar: Ersatte *Infrasyn* med *Giftmotståndig*
+
+## Strid
+- Bytte ut ordningssystemet till ett med sidobaserat initiativ
+
+## [[Magi|Magi]] 
+- Gjorde om [[Ljus|Ljus]] 

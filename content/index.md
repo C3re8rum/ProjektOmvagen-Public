@@ -3,7 +3,7 @@ title: Projekt Omvägen
 share: true
 ---
 <!---
-Detta är det som är "Hem-Sidan" på hemsidan, och ska fungera som en hub
+Detta är det som är förstasidan på hemsidan, och ska fungera som en hub
 ---->
 
 # Vad är Projekt Omvägen? 
@@ -15,9 +15,11 @@ Projekt omvägen är ett bordsrollspel vars mål är att vara lätt för både n
 ###### [[2. Utrustning|2. Utrustning]] 
 ###### [[3. Strid|3. Strid]] 
 ###### [[4. Magi|4. Magi]] 
-###### [[z_Tester/content/1. Kompendium/6. Spelledarresurser|6. Spelledarresurser]] 
+###### [[5. Spelledarresurser|5. Spelledarresurser]] 
 
 ###### [[1. Kompendium/Bilaga A - Ändringslog|Ändringshistorik]] 
 <!--- Beskriver endast de ändringar som gjorts mellan uppdateringar på hemsidan, resten gör Git 
 Skriv Datum med ändringar som en punktlista samt vilken del av utvecklingen den är del (exempelvis, en förändring som är en del av Alpha 0.2 kommer ha Alpha 0.2)
 --->
+
+[[Bilaga A - Ändringslog|Bilaga A - Ändringslog]] 
